@@ -1,0 +1,6 @@
+{
+  "name": "CrowdSync AI — Intelligent Crowd Coordination Platform",
+  "description": "Privacy-preserving intelligent crowd coordination platform predicting congestion, balancing demand across alternative zones with game-theoretic incentives, and zero-knowledge eligibility verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
